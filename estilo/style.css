@@ -41,9 +41,6 @@ header{
     background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
 }
 header > h1{
-
-    margin-bottom: 30px;
-
     font-family: var(--fonte-destaque);
     font-size: 3em;
     font-weight: normal;
